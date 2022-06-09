@@ -1,5 +1,8 @@
+Work together to make language package for bibleStudy software.
 
-BibleStudy
+
+
+About BibleStudy
 ======================
 
 BibleStudy Software is a software whose function is fully extended on the basis of the Bible and is developed to help you better study the Bible.
