@@ -46,5 +46,9 @@ IOS: https://apps.apple.com/app/%E5%9C%A3%E7%BB%8F%E5%AD%A6%E4%B9%A0/id132129217
 
 Android: http://www.biblestudy7.com
 
+### Support
 
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/biblestudy)
+
+<br>
 
