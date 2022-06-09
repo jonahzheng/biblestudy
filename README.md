@@ -33,7 +33,7 @@ BibleStudy Software is a software whose function is fully extended on the basis 
 8. Function menu: Many additional functions are classified in the form of plug-in. For example, simple switch between nighttime and daytime reading mode, bookmark function, automatic three-level font size switch, easy-to-operate verse copy function, multiple verses copy at one time function.
 
 ### Contact
-Official Website: http://www.Biblestudy7.com
+Official Website: http://www.biblestudy7.com
 
 Twiter：https://twitter.com/enochz9
 
@@ -44,7 +44,7 @@ E-mail: Biblestudy7@126.com
 ### Download
 IOS: https://apps.apple.com/app/%E5%9C%A3%E7%BB%8F%E5%AD%A6%E4%B9%A0/id1321292172
 
-Android: http://www.Biblestudy7.com
+Android: http://www.biblestudy7.com
 
 
 
