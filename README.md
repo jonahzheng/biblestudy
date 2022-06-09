@@ -1,3 +1,7 @@
+
+BibleStudy
+======================
+
 BibleStudy Software is a software whose function is fully extended on the basis of the Bible and is developed to help you better study the Bible. The basic functions are as follows:
 
 1. Concise and intuitive design interface: In the use of software, we try our best to make it to be concise and simple, but not lack of function. The upper left corner is the book directory. The upper right corner is the reading history. The bottom are respectively full text retrieval, audio Bible, function menu, grace community and exegesis reference.
