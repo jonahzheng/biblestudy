@@ -1,6 +1,14 @@
 Work together to make language package for bibleStudy software.
 
+## Language package
 
+| Language              | status            | info                |
+| --------------------- | ------------------ | ------------------ |
+| En | :white_check_mark: | English version                |
+| zh-hans    | :white_check_mark: | simplified Chinese |
+| zh-hant           | :white_check_mark: | Chinese Traditional |
+| fr            | :x:                | French version               |
+| ge            | :x:                | German version               |
 
 About BibleStudy
 ======================
