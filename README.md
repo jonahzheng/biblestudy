@@ -28,9 +28,12 @@ Twiter：https://twitter.com/enochz9
 
 FaceBook：https://www.facebook.com/jonah.zheng.1
 
-E-mail: Biblestudy7@126.com
+E-mail: Biblestudy7@126.com 
 
 ### Download
 IOS: https://apps.apple.com/app/%E5%9C%A3%E7%BB%8F%E5%AD%A6%E4%B9%A0/id1321292172
+
 Android: http://www.Biblestudy7.com
+
+
 
